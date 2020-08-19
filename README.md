@@ -1,10 +1,11 @@
-<h1 align="center">👨‍💻Hi there, I'm ReddyyZ 👋 <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp"></h1>
+<h1 align="center">👨‍💻Hi there, I'm ReddyyZ 👋</h1>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="50" height="30">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="50" height="30">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50" height="30">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="30">
+  <img width='50' height='30' src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp">
 </p>
 
 - <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">&nbsp;&nbsp;My projects are avaliable [here](https://github.com/ReddyyZ)
