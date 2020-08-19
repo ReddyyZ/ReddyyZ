@@ -13,6 +13,8 @@
 
 - <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">   Join my [discord server](https://discord.gg) to talk about anything!
 
+- <img src="https://i7.pngguru.com/preview/274/372/1004/kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-thumbnail.jpg" width="20" height="20">   root@kali~# echo "H4CK3D"
+
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
