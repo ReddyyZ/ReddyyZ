@@ -7,6 +7,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="30">
 </p>
 
+<p align="center">
 - <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">&nbsp;&nbsp;My projects are avaliable [here](https://github.com/ReddyyZ)
 
 - 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
@@ -15,7 +16,8 @@
 
 - <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# nmap -sS 192.168.0.109
 
-<p align="center"><img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif"></p>
+<p align="center"><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp"></p>
+</p>
 
 <br>
 
