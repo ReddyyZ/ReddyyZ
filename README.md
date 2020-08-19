@@ -7,17 +7,17 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="30">
 </p>
 
-- <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">   My projects are avaliable [here](https://github.com/ReddyyZ)
+- <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">&nbsp;&nbsp;My projects are avaliable [here](https://github.com/ReddyyZ)
 
 - 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
 
-- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">   Join my [discord server](https://discord.gg) to talk about anything!
+- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg) to talk about anything!
 
-- <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">   root@kali~# echo "H4CK3D"
+- <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# nmap -sS 192.168.0.109
 
-- ```diff
-  - test ```
+- 
 
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
+ 
