@@ -7,7 +7,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="30">
 </p>
 
-- My projects are avaliable [here](https://github.com/ReddyyZ)
+- <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">   My projects are avaliable [here](https://github.com/ReddyyZ)
 - 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
 - <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">   Join my [discord server](https://discord.gg) to talk about anything!
 
