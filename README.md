@@ -11,5 +11,6 @@
 - 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
 - <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">   Join my [discord server](https://discord.gg) to talk about anything!
 
+<br><br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
