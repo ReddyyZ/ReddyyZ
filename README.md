@@ -12,7 +12,7 @@
 
 - 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
 
-- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg) to talk about anything!
+- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 
 - <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# nmap -sS 192.168.0.109
 
