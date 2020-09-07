@@ -21,3 +21,5 @@
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
+
+![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
