@@ -22,4 +22,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
 
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/fantasmanosistema)
 ![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
