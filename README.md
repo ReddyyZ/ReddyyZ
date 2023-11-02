@@ -1,6 +1,6 @@
-```diff
-Hi there, I'm Reddyyz 👨‍💻
+#### Hi there, I'm Reddyyz 👨‍💻
 
+```diff
 Programming student
 + IFMG
 ! Brazil 🇧🇷
