@@ -1,10 +1,14 @@
-#### Hi there, I'm Reddyyz 👨‍💻
+#### Hi there, I'm Arthur 👨‍💻
 
 ```diff
 Programming student
 + IFMG
 ! Brazil 🇧🇷
+
+- <img src=x onerror=alert('ReddyyZ')>
 ```
+
+##
 
 <div align='center'>
   <picture>
