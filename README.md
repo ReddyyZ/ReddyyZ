@@ -1,26 +1,35 @@
-<h1 align="center">👨‍💻Hi there, I'm ReddyyZ 👋</h1>
+```diff
+Hi there, I'm Reddyyz 👨‍💻
 
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="50" height="30">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="50" height="30">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50" height="30">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="30">
-  <img width='50' height='30' src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp">
-</p>
+Programming student
++ IFMG
+! Brazil 🇧🇷
+```
 
-- <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">&nbsp;&nbsp;My projects are avaliable [here](https://github.com/ReddyyZ)
+<div align='center'>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ReddyyZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ReddyyZ&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReddyyZ&show_icons=true" />
+  </picture>
 
-- 📝 I will write articles on [Medium](https://medium.com/@reddyyz)
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ&layout=compact&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ" />
+  </picture>
+</div>
 
-- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
-
-- <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# nmap -sS 192.168.0.109
-
-
-
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddyyz&show_icons=true"></p>
-
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/fantasmanosistema)
-![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@reddyyz)](https://www.youtube.com/@reddyyz) ![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
