@@ -32,7 +32,7 @@ Programming student
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ&layout=compact&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyyZ" />
   </picture>
 </div>
 
