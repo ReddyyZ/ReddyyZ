@@ -1,8 +1,8 @@
 #### Hi there, I'm Arthur 👨‍💻
 
 ```diff
-Programming student
-+ IFMG
+Computer Science student
++ USP/ICMC
 ! Brazil 🇧🇷
 
 - <img src=x onerror=alert('ReddyyZ')>
