@@ -36,4 +36,4 @@ Computer Science student
   </picture>
 </div>
 
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@reddyyz)](https://www.youtube.com/@reddyyz) ![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
+![Views](https://views.whatilearened.today/views/github/ReddyyZ/ismlhbb.svg?cache=remove)
