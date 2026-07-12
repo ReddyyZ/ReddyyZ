@@ -1,7 +1,7 @@
 #### Hi there, I'm Arthur 👨‍💻
 
 ```diff
-Computer Science student
+Computer Science Undergraduate Student
 + USP/ICMC
 ! Brazil 🇧🇷
 
